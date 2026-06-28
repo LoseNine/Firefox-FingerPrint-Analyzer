@@ -17,6 +17,34 @@ A research-grade, instrumented Firefox build for fingerprint risk-control analys
 
 ---
 
+## 内部版本ruyiTrace（功能是开源版本的10倍）
+## 获取方式：https://mp.weixin.qq.com/s/ykW0s8nBua7kOQwy30PI7Q
+教程案例：
+
+    1.akamai-酷航
+
+    2.kasada-realltor，凯越
+
+    3.reese84-电商，信息查询
+
+    4.某音-abgous
+
+    5.某东-h5st-tk03版本
+
+    6.某东-最新版本滑块
+
+    7.ele登录-231-140
+
+    8.w-tslp参数
+
+    9.某数6
+
+    10.某个相同的盾-吉祥
+
+    11.某个相同的盾-九元
+
+    12.去哪里玩-Bella
+
 ### 这是什么
 
 **如意 Trace** 是一个面向**网站指纹风控研究**与**辅助 JS 逆向学术分析**的桌面工具，由两部分组成：
